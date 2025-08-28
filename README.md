@@ -8,52 +8,46 @@
 
 ## 🚀 About Me
 
-I’m a developer who loves building **scalable backend systems** and **trading infrastructure**.  
-My work spans from **production-grade backend services** in Java/Spring Boot and Python/FastAPI  
-to **low-latency algorithmic trading bots** that operate across crypto and prediction markets.
+I’m a developer who enjoys building **scalable backend systems** and **algorithmic trading infrastructure**.  
+My experience ranges from **production-grade backend services** in Python and Java/Spring Boot  
+to designing bots for **market making, arbitrage, and liquidity provision** across crypto & prediction markets.
 
-- 🐍 Strong in **Python** (asyncio, concurrency, FastAPI, NumPy, Pandas, PyTorch)  
-- ☕ Solid **Java** experience with Spring Boot  
-- ☁️ Cloud-native: AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions, Spinnaker)  
-- 📈 I design bots for **cross-exchange arbitrage, liquidity provision, and real-time order book streaming**
+What I’m excited about:
+- ⚙️ High-performance backend engineering  
+- 🐍 Leveraging **Python** for data-heavy and low-latency systems  
+- 📈 Designing trading strategies & real-time order book systems  
+- ☁️ Cloud-native deployments & modern dev practices  
 
----
-
-## 🔧 Technologies & Skills
-
-- **Languages:** Python, Java, SQL  
-- **Frameworks:** Spring Boot, FastAPI, Nest.js, Streamlit  
-- **Concepts:** Concurrency (asyncio, threading, multiprocessing), distributed systems, event-driven architecture  
-- **Tools:** Docker, Kubernetes, AWS, Azure, GitHub Actions, Spinnaker, Redis, PostgreSQL  
+I aim to merge **quantitative development** with strong **software engineering foundations**,  
+and I’m especially interested in roles that bring together **backend infra + trading systems**.
 
 ---
 
-## 📊 Projects
+## 🛠️ Technologies & Skills
 
-### 🟢 Event Derivative Market Making Bot (Python)
-- Quoted bids/asks around fair price on a prediction market  
-- Derived implied probabilities from US equity options via **Black-Scholes-Merton**  
-- Built an **async order manager** with Redis caching, rate-limiting, and 24/7 stability  
-- Deployed on AWS with Prometheus + Grafana monitoring [oai_citation:1‡Ojas_Rayaprolu_Resume.pdf](file-service://file-DE6jRQWtFoRMSxtGBabqVp)
+**Languages:**  
+🐍 Python | ☕ Java | 🗄️ SQL  
 
----
+**Frameworks & Libraries:**  
+- Backend: Spring Boot, FastAPI, Nest.js  
+- Data/ML: NumPy, Pandas, PyTorch  
+- Infra/Monitoring: Streamlit, CCXT, Prometheus, Grafana  
 
-### 🔄 Crypto Spot Arbitrage Bot (Python)
-- Captured cross-exchange inefficiencies by buying illiquid and selling liquid markets  
-- Streamed **50+ pairs concurrently** with Kafka topics separating ingestion from signal computation  
-- Persisted order books/fills in PostgreSQL, Redis caching for real-time arbitrage signals  
-- Dockerized AWS EC2 deployment with Grafana dashboards for PnL & latency [oai_citation:2‡Ojas_Rayaprolu_Resume.pdf](file-service://file-DE6jRQWtFoRMSxtGBabqVp)
+**Concepts:**  
+- Concurrency: asyncio, threading, multiprocessing  
+- Distributed systems, event-driven architecture  
+- Order book streaming & low-latency trading pipelines  
 
----
-
-### ✉️ Expedia – LLM QA Agent
-- Built an **LLM-powered QA agent** with Python + FastAPI to validate email template translations  
-- Saved **1,000+ QA hours** by automating correctness checks  
-- Integrated with CI/CD pipelines (GitHub Actions + Spinnaker) [oai_citation:3‡Ojas_Rayaprolu_Resume.pdf](file-service://file-DE6jRQWtFoRMSxtGBabqVp)
+**DevOps & Tools:**  
+- Cloud: AWS (EC2), Azure  
+- Containers & Orchestration: Docker, Kubernetes  
+- CI/CD: GitHub Actions, Spinnaker  
+- Databases & Caching: PostgreSQL, Redis  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
+
 - [LinkedIn](https://www.linkedin.com/in/ojas-rayaprolu/)  
 - [GitHub](https://github.com/orayaprolu)  
 - [Email](mailto:orayaprolu@gmail.com)  
