@@ -26,7 +26,7 @@ and I’m especially interested in roles that bring together **backend infra + t
 ## 🛠️ Technologies & Skills
 
 **Languages:**  
-🐍 Python | ☕ Java | 🗄️ SQL  
+🐍 Python | ☕ Java
 
 **Frameworks & Libraries:**  
 - Backend: Spring Boot, FastAPI, Nest.js  
