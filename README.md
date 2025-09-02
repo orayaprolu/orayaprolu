@@ -32,4 +32,4 @@ and I’m especially interested in roles that bring together **backend infra + t
 
 ---
 
-⚡ *I’m always exploring ways to merge backend engineering with quantitative trading systems. If you’re into algo trading, backend infra, or quant dev — let’s connect!*
+⚡ *I’m always exploring ways to merge backend engineering with quantitative trading systems. If you’re into algo trading, backend infra, or quant dev, let’s connect!*
