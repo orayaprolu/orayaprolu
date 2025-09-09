@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Ojas
+# 👋 Sup, I'm Ojas
 
 **CS & Linguistics @ UIUC** (Graduating Dec 2025)  
 **Backend SWE Intern @ Expedia (Summer 2025)** | Prev @ Summit Interconnect  
-Passionate about **Python, backend engineering, and algorithmic trading**
+Passionate about **backend engineering, and algorithmic trading**
 
 ---
 
@@ -12,14 +12,7 @@ I’m a developer who enjoys building **scalable backend systems** and **algorit
 My experience ranges from **production-grade backend services** in Python and Java/Spring Boot  
 to designing bots for **market making, arbitrage, and liquidity provision** across crypto & prediction markets.
 
-What I’m excited about:
-- High-performance backend engineering  
-- Leveraging **Python** for data-heavy and low-latency systems  
-- Designing trading strategies & real-time order book systems  
-- Cloud-native deployments & modern dev practices  
-
-I aim to merge **quantitative development** with strong **software engineering foundations**,  
-and I’m especially interested in roles that bring together **backend infra + trading systems**.
+I aim to merge **quantitative development** with strong **software engineering foundations**.
 
 **Languages:**  
 🐍 Python | ☕ Java
@@ -28,7 +21,8 @@ and I’m especially interested in roles that bring together **backend infra + t
 
 - [LinkedIn](https://www.linkedin.com/in/ojas-rayaprolu/)  
 - [GitHub](https://github.com/orayaprolu)  
-- [Email](mailto:orayaprolu@gmail.com)  
+- [Email](mailto:orayaprolu@gmail.com)
+- [Substack](https://ojas18.substack.com/)
 
 ---
 
